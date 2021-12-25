@@ -1,0 +1,7 @@
+Git é um sistema de controle de versão de arquivos.
+Temas abordados:
+SHA1
+BLOBS
+TREES
+COMMIT
+TRACKED OR UNTRACKED
